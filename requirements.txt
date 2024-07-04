@@ -1,0 +1,9 @@
+#Contains all the requirements for running the streamlit application.
+
+streamlit==1.34.0
+pymupdf==1.24.5
+#os is part of the standard library and not external. So, no need to add.
+#same with re
+bs4==0.0.2
+requests==2.31.0
+pandas==2.2.2

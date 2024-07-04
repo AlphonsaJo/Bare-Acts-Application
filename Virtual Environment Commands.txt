@@ -1,0 +1,14 @@
+0. Load the Required Folder in File Explorer in VS Code
+---------------------------
+1. Terminal (PowerShell)
+python -m venv .venv
+---------------------------
+2. Kill the terminal, and run once again.
+
+It will activate the environment.
+---------------------------
+3. pip freeze > requirements.txt #For creating the "requirements.txt file"
+pip install -r requirements.txt
+---------------------------
+4. python -m streamlit run "31. Final.py"
+---------------------------
