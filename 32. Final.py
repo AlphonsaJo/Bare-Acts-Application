@@ -9,6 +9,7 @@ import requests  # HTTP library for making requests
 import time
 import pandas as pd
 import string
+import streamlit as st
 
 # Function to extract title information from text files in a folder
 def extract_txt_titles(pdf_folder, txt_folder):
