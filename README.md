@@ -8,7 +8,5 @@ Angelina George - bl.en.u4cse21017@bl.students.amrita.edu
 
 Alphonsa Jose - bl.en.u4cse21013@bl.students.amrita.edu
 
-This Application was developed as part of our internship during our 6th semester break.
-
 ![image](https://github.com/AlphonsaJo/Lex-Res-Update-Engine/assets/91889313/6e1c577a-6880-499b-904d-fb3c9d51e6ca)
 
