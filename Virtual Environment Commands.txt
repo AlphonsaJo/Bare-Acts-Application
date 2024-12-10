@@ -10,5 +10,5 @@ It will activate the environment.
 3. pip freeze > requirements.txt #For creating the "requirements.txt file"
 pip install -r requirements.txt
 ---------------------------
-4. python -m streamlit run "31. Final.py"
+4. python -m streamlit run "47. Final.py"
 ---------------------------

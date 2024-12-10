@@ -1,3 +1,3 @@
 @echo off
-python -m streamlit run "35. Final.py"
+python -m streamlit run "47. Final.py"
 pause
