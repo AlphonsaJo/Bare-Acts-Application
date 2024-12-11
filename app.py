@@ -253,7 +253,7 @@ def suggest_bare_acts(uploaded_pdf_text):
 
 # Modify the main function to include the new option
 def main():    
-    st.title('BASE ACTS Application')
+    st.title('BARE ACTS Application')
 
     # Initialize session state
     if 'authenticated' not in st.session_state:
