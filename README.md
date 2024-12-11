@@ -1,4 +1,4 @@
-# Bare-Acts-Update-Engine
+# Bare-Acts-Application
 - Maintaining up-to-date versions of BARE Acts is a significant challenge due to continuous updates and decentralized publication, often leading to outdated legal references. Our application addresses this issue by developing a comprehensive BARE Act Update Engine that automates the detection, retrieval, and integration of documents. 
 - Additionally, it consists of a user-interface that assists users in efficiently accessing and navigating the updated legal texts.
 - This project  aligns with SDG 4 (Quality Education) and SDG 16 (Peace, Justice, and Strong Institutions).
