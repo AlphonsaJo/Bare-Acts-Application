@@ -292,7 +292,7 @@ def main():
 
         # Sidebar for navigation and search
         st.sidebar.title("Navigation")
-        option = st.sidebar.radio("Choose an option:", ('Show Original Document', 'Show Extracted Document', 'View Sections', 'Dictionary Lookup', 'User Manual', 'Bare Acts - Table of Contents'))
+        option = st.sidebar.radio("Choose an option:", ('Show Original Document', 'Show Extracted Document', 'View Sections', 'Dictionary Lookup', 'Bare Acts - Table of Contents'))
 
         # Handle the selected PDF from the Table of Contents or Circulars
         if st.session_state.selected_pdf and st.session_state.current_option == 'Show Original Document':
