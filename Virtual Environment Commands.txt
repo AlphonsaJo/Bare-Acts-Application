@@ -3,7 +3,7 @@
 python -m venv .venv
 ---------------------------
 2. Activate
-.venv\Scripts\activate
+.\venv\Scripts\activate
 It will activate the environment.
 ---------------------------
 3. Create Requirements File
